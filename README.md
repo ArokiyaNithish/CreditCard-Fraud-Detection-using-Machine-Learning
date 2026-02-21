@@ -165,6 +165,18 @@ Raw Transaction Data
 
 ---
 
+## 📦 Libraries & Dependencies
+
+```bash
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install imbalanced-learn
+pip install joblib
+pip install matplotlib
+pip install Flask
+```
+---
 ## 📁 Project Structure
 
 ```
