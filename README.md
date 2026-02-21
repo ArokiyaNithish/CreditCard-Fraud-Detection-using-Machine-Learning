@@ -594,6 +594,12 @@ app/app.py → Flask web server
 <img width="778" height="438" alt="result" src="https://github.com/user-attachments/assets/8236c98f-4bf5-4bc8-a871-c461e043bb5b" />
 
 <img width="799" height="578" alt="1" src="https://github.com/user-attachments/assets/5757442c-5a9a-40cf-9e64-60ed143a09c3" />
+---
+
+# Working Prototype Video
+
+
+https://github.com/user-attachments/assets/b9e64ce7-d734-4dcf-b6e3-d04dc4279c13
 
 
 ---
