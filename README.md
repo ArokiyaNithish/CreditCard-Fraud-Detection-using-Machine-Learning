@@ -584,14 +584,17 @@ app/app.py → Flask web server
 ## 🖼️ Screenshots
 
 ### Web Application Interface
-![My Image](https://github.com/ArokiyaNithish/CreditCard-Fraud-Detection/blob/main/image/3.png)
+<img width="789" height="829" alt="3" src="https://github.com/user-attachments/assets/b6a50d5b-5e28-410c-870e-3ae509c11220" />
+
 
 ### Prediction Results
-![My Image](https://github.com/ArokiyaNithish/CreditCard-Fraud-Detection/blob/main/image/4.png)
+<img width="776" height="55" alt="4" src="https://github.com/user-attachments/assets/37541036-f611-441d-90aa-d753f709e081" />
 
 ### Feature Importance Visualization
-![My Image](https://github.com/ArokiyaNithish/CreditCard-Fraud-Detection/blob/main/image/result.png)
-![My Image](https://github.com/ArokiyaNithish/CreditCard-Fraud-Detection/blob/main/image/1.png)
+<img width="778" height="438" alt="result" src="https://github.com/user-attachments/assets/8236c98f-4bf5-4bc8-a871-c461e043bb5b" />
+
+<img width="799" height="578" alt="1" src="https://github.com/user-attachments/assets/5757442c-5a9a-40cf-9e64-60ed143a09c3" />
+
 
 ---
 
@@ -687,12 +690,12 @@ See [LICENSE](LICENSE) for full details.
 
 ### Author
 
-**Arokiya Nithish**
-> 🎓 Internship Company — Pratinik Infotech, Intern ID: 4138
-> 📅 Year: 2025
-> 💼 Domain: Machine Learning | Data Science | Financial Technology
-> [Internship Completed Certificate](https://drive.google.com/file/d/1nI-2xUSE-KImk_2WDrnI2FfbeRPDl0uc/view?usp=sharing)
-> [Internship Offer Letter](https://drive.google.com/file/d/10r7hiPup_ZBHaB4UwMsM8-cTb_Xr6bz3/view?usp=sharing)
+**Arokiya Nithish J**
+- 🎓 Internship Company — Pratinik Infotech, Intern ID: 4138
+- 📅 Year: 2025
+- 💼 Domain: Machine Learning | Data Science | Financial Technology
+- [Internship Completed Certificate](https://drive.google.com/file/d/1nI-2xUSE-KImk_2WDrnI2FfbeRPDl0uc/view?usp=sharing)
+- [Internship Offer Letter](https://drive.google.com/file/d/10r7hiPup_ZBHaB4UwMsM8-cTb_Xr6bz3/view?usp=sharing)
 
 **Contacts**
 - GitHub: [@ArokiyaNithish](https://github.com/ArokiyaNithish)
