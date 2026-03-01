@@ -771,4 +771,6 @@ For support, email @arokiyanithishj@gmail.com or create an issue in the GitHub r
 
 *Made with ❤️ and Python by Arokiya Nithish*
 
+*© 2025 — Arokiya Nithish J*
+
 </div>
