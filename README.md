@@ -726,6 +726,7 @@ See [LICENSE](LICENSE) for full details.
 ### Author
 
 **Arokiya Nithish J**
+- Role : Machine Learning Engineer and Web Develeper
 - 🎓 Internship Company — Pratinik Infotech, Intern ID: 4138
 - 📅 Year: 2025
 - 💼 Domain: Machine Learning | Data Science | Financial Technology
