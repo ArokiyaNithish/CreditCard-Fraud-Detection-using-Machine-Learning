@@ -689,30 +689,32 @@ Please use [GitHub Issues](https://github.com/ArokiyaNithish/Fraud_Detection_Pro
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — you are free to use, modify, and distribute this code with attribution.
+> This is an open-source released under the Apache License to encourage learning, research, and social impact in road safety systems.
+ you are free to use, modify, and distribute this code with attribution.
 
 ```
-MIT License
+📄 License
+This project is licensed under the Apache License 2.0 — you are free to use, modify, and distribute this code with proper attribution and compliance with the license terms.
 
-Copyright (c) 2026 Arokiya Nithish J
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2026 Arokiya Nithish J 
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+```
+http://www.apache.org/licenses/LICENSE-2.0  
+```
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 ```
 
@@ -761,7 +763,39 @@ See [LICENSE](LICENSE) for full details.
 7. [Report: Fraud Detection in Credit Card Transactions* — Project Report, Pratinik Infotech Internship, 2025](https://drive.google.com/file/d/1vmGPNKVxIpgTs7T3EUIQesi_q2YGBiM7/view?usp=sharing)
 
 ---
+```
+NOTICE
 
+Project Name: Credit Card Fraud Detection System
+Copyright (c) 2026 Arokiya Nithish J
+
+This product includes software developed by Arokiya Nithish J.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+---
+
+Modifications
+
+If you have modified this project, you should add a statement here such as:
+
+"This project has been modified by <Your Name/Organization> on <Date>.
+Changes include: <brief description of changes>"
+
+---
+
+END OF NOTICE
+```
 <div align="center">
 
 For support, email @arokiyanithishj@gmail.com or create an issue in the GitHub repository.
